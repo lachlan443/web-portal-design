@@ -1,5 +1,7 @@
 # COMP2110 Web Design Assignment
 
+![Screenshot](screenshot.png)
+
 This semester we'll be writing a web application that implements a web portal.
 The COMP2110 Portal will display information from a variety of sources in a
 single page.  We'll get to the web application development later, but the first
